@@ -29,7 +29,7 @@
       <span class="sr-only">Menu</span>
       <span class="glyphicon glyphicon-menu-hamburger"></span>
       </button>
-      <a class="navbar-brand" href="/">Webslesson</a>
+      <a class="navbar-brand" href="/">Localhost</a>
      </div>
      <div id="navbar-cart" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
